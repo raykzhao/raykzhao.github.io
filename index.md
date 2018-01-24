@@ -10,4 +10,4 @@ You can retrieve my full CV [here](cv.pdf).
 
 # [](#header-1)Projects
 
-*	[Titanium](http://users.monash.edu.au/~rste/Titanium.html): Post-Quantum Public-key Encryption and KEM Algorithms, submitted to the [NIST Post-Quantum Competition](https://csrc.nist.gov/Projects/Post-Quantum-Cryptography).
+*	[Titanium](http://users.monash.edu.au/~rste/Titanium.html): Post-Quantum Public-key Encryption and KEM Algorithms. Ron Steinfeld, Amin Sakzad, & Raymond K. Zhao. Submitted to the [NIST Post-Quantum Competition](https://csrc.nist.gov/Projects/Post-Quantum-Cryptography).
