@@ -9,6 +9,7 @@ My research focuses on the efficient implementation techniques of various crypto
 You can retrieve my full CV [here](cv.pdf).
 
 # [](#header-1)Published Papers:
+*	COSAC: COmpact and Scalable Arbitrary-Centered Discrete Gaussian Sampling over Integers. (2020). Raymond K. Zhao, Ron Steinfeld, & Amin Sakzad. Proceedings of PQCrypto 2020.
 *	FACCT: FAst, Compact, and Constant-Time Discrete Gaussian Sampler over Integers. (2019). Raymond K. Zhao, Ron Steinfeld, & Amin Sakzad. IEEE Transactions on Computers. DOI [10.1109/TC.2019.2940949](https://doi.org/10.1109/TC.2019.2940949).
 *	MatRiCT: Efficient, Scalable and Post-Quantum Blockchain Confidential Transactions Protocol. (2019). Muhammed F. Esgin, Raymond K. Zhao, Ron Steinfeld, Joseph K. Liu, & Dongxi Liu. Proceedings of ACM CCS'19. DOI [10.1145/3319535.3354200](https://doi.org/10.1145/3319535.3354200). 
 *	Practical MP-LWE-based encryption balancing security-risk versus efficiency. (2019). Ron Steinfeld, Amin Sakzad, & Raymond K. Zhao. Designs, Codes and Cryptography. DOI [10.1007/s10623-019-00654-5](https://doi.org/10.1007/s10623-019-00654-5). 
