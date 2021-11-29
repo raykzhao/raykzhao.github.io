@@ -18,5 +18,6 @@ Note that the majority of my source codes has been moved to [gitlab](https://git
 *	Practical MP-LWE-based encryption balancing security-risk versus efficiency. (2019). Ron Steinfeld, Amin Sakzad, & ***Raymond K. Zhao***. Designs, Codes and Cryptography. DOI [10.1007/s10623-019-00654-5](https://doi.org/10.1007/s10623-019-00654-5). 
 
 # [](#header-1)Projects & Preprint:
+*	Performance Evaluation of Post-quantum TLS 1.3 on Embedded Systems. (2021). Tasopoulos George, Jinhui Li, Apostolos P. Fournaris, **Raymond K. Zhao**, Amin Sakzad, & Ron Steinfeld. IACR Cryptology ePrint Archive [2021:1553](https://ia.cr/2021/1553).
 *	Quantum-safe HIBE: does it cost a Latte?. (2021).  ***Raymond K. Zhao***, Sarah McCarthy, Ron Steinfeld, Amin Sakzad, & Máire O’Neill. IACR Cryptology ePrint Archive [2021: 222](https://ia.cr/2021/222). 
 *	[Titanium](http://users.monash.edu.au/~rste/Titanium.html): Post-Quantum Public-key Encryption and KEM Algorithms. (2017). Ron Steinfeld, Amin Sakzad, & ***Raymond K. Zhao***. Submitted to the [NIST Post-Quantum Competition](https://csrc.nist.gov/Projects/Post-Quantum-Cryptography).
