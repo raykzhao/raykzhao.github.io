@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Hi. I am a PhD candidate studying at Faculty of Information Technology, Monash University. 
+Hi. I am a Research Fellow at Department of Software Systems and Cybersecurity, Faculty of Information Technology, Monash University. 
 
 My research focuses on the efficient implementation techniques of various cryptographic applications, particularly the lattice-based cryptosystems. 
 
@@ -22,3 +22,6 @@ Note that the majority of my source codes has been moved to [gitlab](https://git
 *	Performance Evaluation of Post-quantum TLS 1.3 on Embedded Systems. (2021). Tasopoulos George, Jinhui Li, Apostolos P. Fournaris, ***Raymond K. Zhao***, Amin Sakzad, & Ron Steinfeld. IACR Cryptology ePrint Archive [2021:1553](https://ia.cr/2021/1553).
 *	Quantum-safe HIBE: does it cost a Latte?. (2021).  ***Raymond K. Zhao***, Sarah McCarthy, Ron Steinfeld, Amin Sakzad, & Máire O’Neill. IACR Cryptology ePrint Archive [2021: 222](https://ia.cr/2021/222). 
 *	[Titanium](http://users.monash.edu.au/~rste/Titanium.html): Post-Quantum Public-key Encryption and KEM Algorithms. (2017). Ron Steinfeld, Amin Sakzad, & ***Raymond K. Zhao***. Submitted to the [NIST Post-Quantum Competition](https://csrc.nist.gov/Projects/Post-Quantum-Cryptography).
+
+# [](#header-1)My PhD Thesis:
+*	[Efficient Implementation Techniques for Lattice-based Cryptosystems](https://bridges.monash.edu/articles/thesis/Efficient_Implementation_Techniques_for_Lattice-based_Cryptosystems/19224867). Monash University. Supervised by Associate Professor Ron Steinfeld & Dr Amin Sakzad. Certified on Feburary 2022. 
