@@ -11,7 +11,7 @@ You can retrieve my full CV [here](cv.pdf).
 Note that the majority of my source codes has been moved to [gitlab](https://gitlab.com/raykzhao).
 
 # [](#header-1)Published Papers:
-*	Efficient Verifiable Partially-Decryptable Commitments from Lattices and Applications. (2021). Muhammed F. Esgin, Ron Steinfeld, & ***Raymond K. Zhao***. Accepted by PKC 2022.
+*	Efficient Verifiable Partially-Decryptable Commitments from Lattices and Applications. (2021). Muhammed F. Esgin, Ron Steinfeld, & ***Raymond K. Zhao***. Proceedings of PKC 2022. DOI [10.1007/978-3-030-97121-2_12](https://doi.org/10.1007/978-3-030-97121-2_12).
 *	MatRiCT+: More Efficient Post-Quantum Private Blockchain Payments. (2021). Muhammed F. Esgin, Ron Steinfeld, & ***Raymond K. Zhao***. Accepted by IEEE S&P 2022. 
 *	COSAC: COmpact and Scalable Arbitrary-Centered Discrete Gaussian Sampling over Integers. (2020). ***Raymond K. Zhao***, Ron Steinfeld, & Amin Sakzad. Proceedings of PQCrypto 2020. DOI [10.1007/978-3-030-44223-1_16](https://doi.org/10.1007/978-3-030-44223-1_16). 
 *	FACCT: FAst, Compact, and Constant-Time Discrete Gaussian Sampler over Integers. (2019). ***Raymond K. Zhao***, Ron Steinfeld, & Amin Sakzad. IEEE Transactions on Computers. DOI [10.1109/TC.2019.2940949](https://doi.org/10.1109/TC.2019.2940949).
