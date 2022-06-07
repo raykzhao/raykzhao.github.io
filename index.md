@@ -12,7 +12,7 @@ Note that the majority of my source codes has been moved to [gitlab](https://git
 
 # [](#header-1)Published Papers:
 *	Efficient Verifiable Partially-Decryptable Commitments from Lattices and Applications. (2021). Muhammed F. Esgin, Ron Steinfeld, & ***Raymond K. Zhao***. Proceedings of PKC 2022. DOI [10.1007/978-3-030-97121-2_12](https://doi.org/10.1007/978-3-030-97121-2_12).
-*	MatRiCT+: More Efficient Post-Quantum Private Blockchain Payments. (2021). Muhammed F. Esgin, Ron Steinfeld, & ***Raymond K. Zhao***. Accepted by IEEE S&P 2022. 
+*	MatRiCT+: More Efficient Post-Quantum Private Blockchain Payments. (2021). Muhammed F. Esgin, Ron Steinfeld, & ***Raymond K. Zhao***. Proceedings of IEEE S&P 2022. DOI [10.1109/SP46214.2022.00033](https://doi.org/10.1109/SP46214.2022.00033).
 *	COSAC: COmpact and Scalable Arbitrary-Centered Discrete Gaussian Sampling over Integers. (2020). ***Raymond K. Zhao***, Ron Steinfeld, & Amin Sakzad. Proceedings of PQCrypto 2020. DOI [10.1007/978-3-030-44223-1_16](https://doi.org/10.1007/978-3-030-44223-1_16). 
 *	FACCT: FAst, Compact, and Constant-Time Discrete Gaussian Sampler over Integers. (2019). ***Raymond K. Zhao***, Ron Steinfeld, & Amin Sakzad. IEEE Transactions on Computers. DOI [10.1109/TC.2019.2940949](https://doi.org/10.1109/TC.2019.2940949).
 *	MatRiCT: Efficient, Scalable and Post-Quantum Blockchain Confidential Transactions Protocol. (2019). Muhammed F. Esgin, ***Raymond K. Zhao***, Ron Steinfeld, Joseph K. Liu, & Dongxi Liu. Proceedings of ACM CCS'19. DOI [10.1145/3319535.3354200](https://doi.org/10.1145/3319535.3354200). 
