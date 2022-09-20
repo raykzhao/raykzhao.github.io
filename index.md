@@ -11,6 +11,7 @@ You can retrieve my full CV [here](cv.pdf).
 Note that the majority of my source codes has been moved to [gitlab](https://gitlab.com/raykzhao).
 
 # [](#header-1)Published Papers:
+*	Performance Evaluation of Post-Quantum TLS 1.3 on Resource-Constrained Embedded Systems. (2021). George Tasopoulos, Jinhui Li, Apostolos P. Fournaris, ***Raymond K. Zhao***, Amin Sakzad, & Ron Steinfeld. Proceedings of ISPEC 2022. [Preprint](https://ia.cr/2021/1553).
 *	Efficient Verifiable Partially-Decryptable Commitments from Lattices and Applications. (2021). Muhammed F. Esgin, Ron Steinfeld, & ***Raymond K. Zhao***. Proceedings of PKC 2022. DOI [10.1007/978-3-030-97121-2_12](https://doi.org/10.1007/978-3-030-97121-2_12).
 *	MatRiCT+: More Efficient Post-Quantum Private Blockchain Payments. (2021). Muhammed F. Esgin, Ron Steinfeld, & ***Raymond K. Zhao***. Proceedings of IEEE S&P 2022. DOI [10.1109/SP46214.2022.00033](https://doi.org/10.1109/SP46214.2022.00033).
 *	COSAC: COmpact and Scalable Arbitrary-Centered Discrete Gaussian Sampling over Integers. (2020). ***Raymond K. Zhao***, Ron Steinfeld, & Amin Sakzad. Proceedings of PQCrypto 2020. DOI [10.1007/978-3-030-44223-1_16](https://doi.org/10.1007/978-3-030-44223-1_16). 
@@ -20,7 +21,6 @@ Note that the majority of my source codes has been moved to [gitlab](https://git
 
 # [](#header-1)Projects & Preprint:
 *	A New Look at Blockchain Leader Election: Simple, Efficient, Sustainable and Post-Quantum. (2022). Muhammed F. Esgin, Oguzhan Ersoy, Veronika Kuchta, Julian Loss, Amin Sakzad, Ron Steinfeld, Wayne Yang, & ***Raymond K. Zhao***. IACR Cryptology ePrint Archive [2022:993](https://ia.cr/2022/993).
-*	Performance Evaluation of Post-quantum TLS 1.3 on Embedded Systems. (2021). Tasopoulos George, Jinhui Li, Apostolos P. Fournaris, ***Raymond K. Zhao***, Amin Sakzad, & Ron Steinfeld. IACR Cryptology ePrint Archive [2021:1553](https://ia.cr/2021/1553).
 *	Quantum-safe HIBE: does it cost a Latte?. (2021).  ***Raymond K. Zhao***, Sarah McCarthy, Ron Steinfeld, Amin Sakzad, & Máire O’Neill. IACR Cryptology ePrint Archive [2021: 222](https://ia.cr/2021/222). 
 *	[Titanium](http://users.monash.edu.au/~rste/Titanium.html): Post-Quantum Public-key Encryption and KEM Algorithms. (2017). Ron Steinfeld, Amin Sakzad, & ***Raymond K. Zhao***. Submitted to the [NIST Post-Quantum Competition](https://csrc.nist.gov/Projects/Post-Quantum-Cryptography).
 
