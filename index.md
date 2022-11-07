@@ -4,7 +4,7 @@ layout: default
 
 Hi. I am a Postdoctoral Fellow at CSIRO's Data61. 
 
-My research focuses on the efficient implementation techniques of various cryptographic applications, particularly the lattice-based cryptosystems. 
+My research focuses on the efficient and secure implementation techniques for post-quantum cryptographic applications and protocols, particularly the lattice-based cryptosystems. 
 
 You can retrieve my full CV [here](cv.pdf).
 
