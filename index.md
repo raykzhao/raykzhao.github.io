@@ -19,7 +19,8 @@ Note that the majority of my source codes has been moved to [gitlab](https://git
 *	MatRiCT: Efficient, Scalable and Post-Quantum Blockchain Confidential Transactions Protocol. (2019). Muhammed F. Esgin, ***Raymond K. Zhao***, Ron Steinfeld, Joseph K. Liu, & Dongxi Liu. Proceedings of ACM CCS'19. DOI [10.1145/3319535.3354200](https://doi.org/10.1145/3319535.3354200). 
 *	Practical MP-LWE-based encryption balancing security-risk versus efficiency. (2019). Ron Steinfeld, Amin Sakzad, & ***Raymond K. Zhao***. Designs, Codes and Cryptography. DOI [10.1007/s10623-019-00654-5](https://doi.org/10.1007/s10623-019-00654-5). 
 
-# [](#header-1)Projects & Preprint:
+# [](#header-1)Other Works:
+*	Scalable and Efficient Hybrid QKD with Post-quantum Authentications. (2023). ***Raymond K. Zhao***, Dongxi Liu, & Josef Pieprzyk. [Poster](https://raykzhao.github.io/qca2023_poster.pdf) at Quantum Australia 2023.  
 *	A New Look at Blockchain Leader Election: Simple, Efficient, Sustainable and Post-Quantum. (2022). Muhammed F. Esgin, Oguzhan Ersoy, Veronika Kuchta, Julian Loss, Amin Sakzad, Ron Steinfeld, Wayne Yang, & ***Raymond K. Zhao***. IACR Cryptology ePrint Archive [2022:993](https://ia.cr/2022/993).
 *	Quantum-safe HIBE: does it cost a Latte?. (2021).  ***Raymond K. Zhao***, Sarah McCarthy, Ron Steinfeld, Amin Sakzad, & Máire O’Neill. IACR Cryptology ePrint Archive [2021: 222](https://ia.cr/2021/222). 
 *	[Titanium](http://users.monash.edu.au/~rste/Titanium.html): Post-Quantum Public-key Encryption and KEM Algorithms. (2017). Ron Steinfeld, Amin Sakzad, & ***Raymond K. Zhao***. Submitted to the [NIST Post-Quantum Competition](https://csrc.nist.gov/Projects/Post-Quantum-Cryptography).
