@@ -6,11 +6,12 @@ Hi. I am a Postdoctoral Fellow at CSIRO's Data61.
 
 My research focuses on the efficient and secure implementation techniques for post-quantum cryptographic applications and protocols, particularly the lattice-based cryptosystems. 
 
-You can retrieve my full CV [here](cv.pdf).
+You can retrieve my full CV [here](CV.pdf).
 
 Note that the majority of my source codes has been moved to [gitlab](https://gitlab.com/raykzhao).
 
 # [](#header-1)Published Papers:
+*	Energy Consumption Evaluation of Post-Quantum TLS 1.3 for Resource-Constrained Embedded Devices. (2023). George Tasopoulos, Charis Dimopoulos, Apostolos P. Fournaris, ***Raymond K. Zhao***, Amin Sakzad, Ron Steinfeld. Proceedings of MAL-IoT 2023. [Preprint](https://ia.cr/2023/506). 
 *	Performance Evaluation of Post-Quantum TLS 1.3 on Resource-Constrained Embedded Systems. (2021). George Tasopoulos, Jinhui Li, Apostolos P. Fournaris, ***Raymond K. Zhao***, Amin Sakzad, & Ron Steinfeld. Proceedings of ISPEC 2022. DOI [10.1007/978-3-031-21280-2_24](https://doi.org/10.1007/978-3-031-21280-2_24).
 *	Efficient Verifiable Partially-Decryptable Commitments from Lattices and Applications. (2021). Muhammed F. Esgin, Ron Steinfeld, & ***Raymond K. Zhao***. Proceedings of PKC 2022. DOI [10.1007/978-3-030-97121-2_12](https://doi.org/10.1007/978-3-030-97121-2_12).
 *	MatRiCT+: More Efficient Post-Quantum Private Blockchain Payments. (2021). Muhammed F. Esgin, Ron Steinfeld, & ***Raymond K. Zhao***. Proceedings of IEEE S&P 2022. DOI [10.1109/SP46214.2022.00033](https://doi.org/10.1109/SP46214.2022.00033).
