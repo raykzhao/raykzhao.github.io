@@ -11,6 +11,7 @@ You can retrieve my full CV [here](CV.pdf).
 Note that the majority of my source codes has been moved to [gitlab](https://gitlab.com/raykzhao).
 
 # [](#header-1)Published Papers:
+*	A New Look at Blockchain Leader Election: Simple, Efficient, Sustainable and Post-Quantum. (2022). Muhammed F. Esgin, Oguzhan Ersoy, Veronika Kuchta, Julian Loss, Amin Sakzad, Ron Steinfeld, Wayne Yang, & ***Raymond K. Zhao***. Proceedings of AsiaCCS 2023. [Preprint](https://ia.cr/2022/993).
 *	Energy Consumption Evaluation of Post-Quantum TLS 1.3 for Resource-Constrained Embedded Devices. (2023). George Tasopoulos, Charis Dimopoulos, Apostolos P. Fournaris, ***Raymond K. Zhao***, Amin Sakzad, Ron Steinfeld. Proceedings of MAL-IoT 2023. [Preprint](https://ia.cr/2023/506). 
 *	Performance Evaluation of Post-Quantum TLS 1.3 on Resource-Constrained Embedded Systems. (2021). George Tasopoulos, Jinhui Li, Apostolos P. Fournaris, ***Raymond K. Zhao***, Amin Sakzad, & Ron Steinfeld. Proceedings of ISPEC 2022. DOI [10.1007/978-3-031-21280-2_24](https://doi.org/10.1007/978-3-031-21280-2_24).
 *	Efficient Verifiable Partially-Decryptable Commitments from Lattices and Applications. (2021). Muhammed F. Esgin, Ron Steinfeld, & ***Raymond K. Zhao***. Proceedings of PKC 2022. DOI [10.1007/978-3-030-97121-2_12](https://doi.org/10.1007/978-3-030-97121-2_12).
@@ -23,7 +24,6 @@ Note that the majority of my source codes has been moved to [gitlab](https://git
 # [](#header-1)Other Works:
 *	High Throughput Lattice-based Signatures on GPUs: Comparing Falcon and Mitaka. (2023). Wai-Kong Lee, ***Raymond K. Zhao***, Ron Steinfeld, Amin Sakzad, & Seong Oun Hwang. IACR Cryptology ePrint Archive [2023:399](https://ia.cr/2023/399).
 *	Scalable and Efficient Hybrid QKD with Post-quantum Authentications. (2023). ***Raymond K. Zhao***, Dongxi Liu, & Josef Pieprzyk. [Poster](https://raykzhao.github.io/qca2023_poster.pdf) at Quantum Australia 2023.  
-*	A New Look at Blockchain Leader Election: Simple, Efficient, Sustainable and Post-Quantum. (2022). Muhammed F. Esgin, Oguzhan Ersoy, Veronika Kuchta, Julian Loss, Amin Sakzad, Ron Steinfeld, Wayne Yang, & ***Raymond K. Zhao***. IACR Cryptology ePrint Archive [2022:993](https://ia.cr/2022/993).
 *	Quantum-safe HIBE: does it cost a Latte?. (2021).  ***Raymond K. Zhao***, Sarah McCarthy, Ron Steinfeld, Amin Sakzad, & Máire O’Neill. IACR Cryptology ePrint Archive [2021: 222](https://ia.cr/2021/222). 
 *	[Titanium](http://users.monash.edu.au/~rste/Titanium.html): Post-Quantum Public-key Encryption and KEM Algorithms. (2017). Ron Steinfeld, Amin Sakzad, & ***Raymond K. Zhao***. Submitted to the [NIST Post-Quantum Competition](https://csrc.nist.gov/Projects/Post-Quantum-Cryptography).
 
