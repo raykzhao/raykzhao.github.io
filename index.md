@@ -29,6 +29,9 @@ Note that the majority of my source codes has been moved to [gitlab](https://git
 *	Quantum-safe HIBE: does it cost a Latte?. (2021).  ***Raymond K. Zhao***, Sarah McCarthy, Ron Steinfeld, Amin Sakzad, & Máire O’Neill. IACR Cryptology ePrint Archive [2021: 222](https://ia.cr/2021/222). 
 *	[Titanium](http://users.monash.edu.au/~rste/Titanium.html): Post-Quantum Public-key Encryption and KEM Algorithms. (2017). Ron Steinfeld, Amin Sakzad, & ***Raymond K. Zhao***. Submitted to the [NIST Post-Quantum Competition](https://csrc.nist.gov/CSRC/media/Projects/Post-Quantum-Cryptography/documents/round-1/submissions/Titanium.zip).
 
+# [](#header-1)Awards:
+*	SCS Biannual Award May 2023 (Engineering and Technology Award)
+
 # [](#header-1)Scientific Citizenship:
 *	**Program Comittee:** Asiacrypt 2023
 *	**Journal Reviews:** [ORCID](https://orcid.org/0000-0003-1257-9147)
