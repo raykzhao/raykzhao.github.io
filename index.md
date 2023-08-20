@@ -32,6 +32,9 @@ Note that the majority of my source codes has been moved to [gitlab](https://git
 # [](#header-1)Awards:
 *	SCS Biannual Award May 2023 (Engineering and Technology Award)
 
+# [](#header-1)PhD Supervisions:
+*	Mert Yassı (Jul 2023 -- present, co-supervision with Ron Steinfeld, Amin Sakzad, and Muhammed Esgin)
+
 # [](#header-1)Scientific Citizenship:
 *	**Program Comittee:** Asiacrypt 2023
 *	**Journal Reviews:** [ORCID](https://orcid.org/0000-0003-1257-9147)
