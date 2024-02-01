@@ -8,8 +8,6 @@ My research focuses on the efficient and secure implementation techniques for po
 
 You can retrieve my full CV [here](CV.pdf).
 
-**NEWS:** We have a fully funded [PhD scholarship](https://iacr.org/jobs/item/3492) on the topic "Quantum-Safe Security Measures for IoT-based Intelligent Transport Systems". Applicant please contacts [me](mailto:raymond.zhao@data61.csiro.au) or [Dr Arash Shaghaghi](mailto:a.shaghaghi@unsw.edu.au) in University of New South Wales. 
-
 # [](#header-1)Published Papers:
 *	Quantum-safe HIBE: does it cost a Latte?. (2024).  ***Raymond K. Zhao***, Sarah McCarthy, Ron Steinfeld, Amin Sakzad, & Máire O’Neill. IEEE Transactions on Information Forensics and Security. DOI [10.1109/TIFS.2023.3347880](https://doi.org/10.1109/TIFS.2023.3347880). [Full version](https://ia.cr/2021/222). 
 *	A New Look at Blockchain Leader Election: Simple, Efficient, Sustainable and Post-Quantum. (2023). Muhammed F. Esgin, Oguzhan Ersoy, Veronika Kuchta, Julian Loss, Amin Sakzad, Ron Steinfeld, Wayne Yang, & ***Raymond K. Zhao***. Proceedings of AsiaCCS 2023. DOI [10.1145/3579856.3595792](https://doi.org/10.1145/3579856.3595792).
