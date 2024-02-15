@@ -9,6 +9,7 @@ My research focuses on the efficient and secure implementation techniques for po
 You can retrieve my full CV [here](CV.pdf).
 
 # [](#header-1)Published Papers:
+*	High Throughput Lattice-based Signatures on GPUs: Comparing Falcon and Mitaka. (2024). Wai-Kong Lee, ***Raymond K. Zhao***, Ron Steinfeld, Amin Sakzad, & Seong Oun Hwang. IEEE Transactions on Parallel and Distributed Systems. [Preprint](https://ia.cr/2023/399).
 *	Quantum-safe HIBE: does it cost a Latte?. (2024).  ***Raymond K. Zhao***, Sarah McCarthy, Ron Steinfeld, Amin Sakzad, & Máire O’Neill. IEEE Transactions on Information Forensics and Security. DOI [10.1109/TIFS.2023.3347880](https://doi.org/10.1109/TIFS.2023.3347880). [Full version](https://ia.cr/2021/222). 
 *	A New Look at Blockchain Leader Election: Simple, Efficient, Sustainable and Post-Quantum. (2023). Muhammed F. Esgin, Oguzhan Ersoy, Veronika Kuchta, Julian Loss, Amin Sakzad, Ron Steinfeld, Wayne Yang, & ***Raymond K. Zhao***. Proceedings of AsiaCCS 2023. DOI [10.1145/3579856.3595792](https://doi.org/10.1145/3579856.3595792).
 *	Energy Consumption Evaluation of Post-Quantum TLS 1.3 for Resource-Constrained Embedded Devices. (2023). George Tasopoulos, Charis Dimopoulos, Apostolos P. Fournaris, ***Raymond K. Zhao***, Amin Sakzad, Ron Steinfeld. Proceedings of MAL-IoT 2023. DOI [10.1145/3587135.3592821](https://doi.org/10.1145/3587135.3592821). 
@@ -23,7 +24,6 @@ You can retrieve my full CV [here](CV.pdf).
 # [](#header-1)Other Works:
 *	eMLE-Sig 2.0: A Signature Scheme based on Embedded Multilayer Equations with Heavy Layer Randomization. (2023). Dongxi Liu & ***Raymond K. Zhao***. Submitted to the [NIST PQC Round 1 Additional Signatures](https://csrc.nist.gov/csrc/media/Projects/pqc-dig-sig/documents/round-1/submission-pkg/eMLE2.0-submission.zip). [Latest](https://gitlab.com/raykzhao/emle-sig).
 *	Securing Communications in the Post-Quantum Era. (2023). ***Raymond K. Zhao***, & Sara Jafarbeiki. [Tutorial](https://raykzhao.github.io/AsiaCCS2023Tutorial.pdf) at AsiaCCS 2023.  
-*	High Throughput Lattice-based Signatures on GPUs: Comparing Falcon and Mitaka. (2023). Wai-Kong Lee, ***Raymond K. Zhao***, Ron Steinfeld, Amin Sakzad, & Seong Oun Hwang. IACR Cryptology ePrint Archive [2023:399](https://ia.cr/2023/399).
 *	Scalable and Efficient Hybrid QKD with Post-quantum Authentications. (2023). ***Raymond K. Zhao***, Dongxi Liu, & Josef Pieprzyk. [Poster](https://raykzhao.github.io/qca2023_poster.pdf) at Quantum Australia 2023.
 *	Implementation of Post-Quantum Algorithms for Bouncy Castle Library. [Project](https://research.monash.edu/en/projects/implementation-of-post-quantum-algorithms-for-bouncy-castle-libra). [Contributors](https://www.bouncycastle.org/contributors.html) of the Bouncy Castle.
 *	[Titanium](http://users.monash.edu.au/~rste/Titanium.html): Post-Quantum Public-key Encryption and KEM Algorithms. (2017). Ron Steinfeld, Amin Sakzad, & ***Raymond K. Zhao***. Submitted to the [NIST Post-Quantum Competition](https://csrc.nist.gov/CSRC/media/Projects/Post-Quantum-Cryptography/documents/round-1/submissions/Titanium.zip).
