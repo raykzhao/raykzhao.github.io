@@ -23,10 +23,13 @@ You can retrieve my full CV [here](CV.pdf).
 
 # [](#header-1)Other Works:
 *	eMLE-Sig 2.0: A Signature Scheme based on Embedded Multilayer Equations with Heavy Layer Randomization. (2023). Dongxi Liu & ***Raymond K. Zhao***. Submitted to the [NIST PQC Round 1 Additional Signatures](https://csrc.nist.gov/csrc/media/Projects/pqc-dig-sig/documents/round-1/submission-pkg/eMLE2.0-submission.zip). [Latest](https://gitlab.com/raykzhao/emle-sig).
-*	Securing Communications in the Post-Quantum Era. (2023). ***Raymond K. Zhao***, & Sara Jafarbeiki. [Tutorial](https://raykzhao.github.io/AsiaCCS2023Tutorial.pdf) at AsiaCCS 2023.  
 *	Scalable and Efficient Hybrid QKD with Post-quantum Authentications. (2023). ***Raymond K. Zhao***, Dongxi Liu, & Josef Pieprzyk. [Poster](https://raykzhao.github.io/qca2023_poster.pdf) at Quantum Australia 2023.
 *	Implementation of Post-Quantum Algorithms for Bouncy Castle Library. [Project](https://research.monash.edu/en/projects/implementation-of-post-quantum-algorithms-for-bouncy-castle-libra). [Contributors](https://www.bouncycastle.org/contributors.html) of the Bouncy Castle.
 *	[Titanium](http://users.monash.edu.au/~rste/Titanium.html): Post-Quantum Public-key Encryption and KEM Algorithms. (2017). Ron Steinfeld, Amin Sakzad, & ***Raymond K. Zhao***. Submitted to the [NIST Post-Quantum Competition](https://csrc.nist.gov/CSRC/media/Projects/Post-Quantum-Cryptography/documents/round-1/submissions/Titanium.zip).
+
+# [](#header-1)Talks:
+*	Quantum-Safe HIBE: Does It Cost a Latte?. (2024). [Seminar](https://raykzhao.github.io/Latte_PPT.pdf) in the Macquarie University Cyber Security Hub. 
+*	Securing Communications in the Post-Quantum Era. (2023). ***Raymond K. Zhao***, & Sara Jafarbeiki. [Tutorial](https://raykzhao.github.io/AsiaCCS2023Tutorial.pdf) at AsiaCCS 2023.  
 
 # [](#header-1)Awards:
 *	SCS Biannual Award May 2023 (Engineering and Technology Award)
