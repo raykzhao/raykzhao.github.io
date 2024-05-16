@@ -41,5 +41,12 @@ You can retrieve my full CV [here](CV.pdf).
 *	**Program Comittee:** Asiacrypt 2023
 *	**Journal Reviews:** [ORCID](https://orcid.org/0000-0003-1257-9147)
 
+# [](#header-1)Media Articles:
+*	[New research to make digital transactions quantum safe and twenty times faster](https://www.monash.edu/news/articles/new-research-to-make-digital-transactions-quantum-safe-and-twenty-times-faster). 16 May 2024. 
+*	[The new frontier in online security: quantum-safe cryptography](https://www.monash.edu/news/articles/the-new-frontier-in-online-security-quantum-safe-cryptography). 14 November 2023. 
+*	[Better than best: Most efficient quantum-safe and privacy-preserving blockchain protocol gets an upgrade](https://www.monash.edu/it/news/2021/better-than-best-most-efficient-quantum-safe-and-privacy-preserving-blockchain-protocol-gets-an-upgrade). 15 September 2021. 
+*	[New form of blockchain protocol coined most efficient in the world](https://www.csiro.au/en/news/All/Articles/2020/October/new-form-of-blockchain-protocol-coined-most-efficient-in-the-world). 1 October 2020. 
+*	[Researchers develop worlds most efficient quantum-safe and privacy-preserving blockchain protocol](https://www.csiro.au/en/news/all/news/2020/september/researchers-develop-worlds-most-efficient-quantum-safe-and-privacy-preserving-blockchain-protocol). 30 September 2020. 
+
 # [](#header-1)My PhD Thesis:
 *	[Efficient Implementation Techniques for Lattice-based Cryptosystems](https://bridges.monash.edu/articles/thesis/Efficient_Implementation_Techniques_for_Lattice-based_Cryptosystems/19224867). Monash University. Supervised by Associate Professor Ron Steinfeld & Dr Amin Sakzad. Certified on Feburary 2022. 
