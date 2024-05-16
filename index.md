@@ -9,7 +9,7 @@ My research focuses on the efficient and secure implementation techniques for po
 You can retrieve my full CV [here](CV.pdf).
 
 # [](#header-1)Published Papers:
-*	High Throughput Lattice-based Signatures on GPUs: Comparing Falcon and Mitaka. (2024). Wai-Kong Lee, ***Raymond K. Zhao***, Ron Steinfeld, Amin Sakzad, & Seong Oun Hwang. IEEE Transactions on Parallel and Distributed Systems. DOI [10.1109/TPDS.2024.3367319](https://doi.org/10.1109/TPDS.2024.3367319). [Preprint](https://ia.cr/2023/399).
+*	High Throughput Lattice-based Signatures on GPUs: Comparing Falcon and Mitaka. (2024). Wai-Kong Lee, ***Raymond K. Zhao***, Ron Steinfeld, Amin Sakzad, & Seong Oun Hwang. IEEE Transactions on Parallel and Distributed Systems. DOI [10.1109/TPDS.2024.3367319](https://doi.org/10.1109/TPDS.2024.3367319). 
 *	Quantum-safe HIBE: does it cost a Latte?. (2024).  ***Raymond K. Zhao***, Sarah McCarthy, Ron Steinfeld, Amin Sakzad, & Máire O’Neill. IEEE Transactions on Information Forensics and Security. DOI [10.1109/TIFS.2023.3347880](https://doi.org/10.1109/TIFS.2023.3347880). [Full version](https://ia.cr/2021/222). 
 *	A New Look at Blockchain Leader Election: Simple, Efficient, Sustainable and Post-Quantum. (2023). Muhammed F. Esgin, Oguzhan Ersoy, Veronika Kuchta, Julian Loss, Amin Sakzad, Ron Steinfeld, Wayne Yang, & ***Raymond K. Zhao***. Proceedings of AsiaCCS 2023. DOI [10.1145/3579856.3595792](https://doi.org/10.1145/3579856.3595792).
 *	Energy Consumption Evaluation of Post-Quantum TLS 1.3 for Resource-Constrained Embedded Devices. (2023). George Tasopoulos, Charis Dimopoulos, Apostolos P. Fournaris, ***Raymond K. Zhao***, Amin Sakzad, Ron Steinfeld. Proceedings of MAL-IoT 2023. DOI [10.1145/3587135.3592821](https://doi.org/10.1145/3587135.3592821). 
