@@ -8,6 +8,9 @@ My research focuses on the efficient and secure implementation techniques for po
 
 You can retrieve my full CV [here](CV.pdf).
 
+# [](#header-1)News:
+*	(Australian permanent residents and citizens only) We have two new [Industry PhD scholarships](https://raykzhao.github.io/iphd_ad.pdf) between CSIRO, Monash University, and Penten. Candidates please register an expression of interest [here](https://forms.gle/XJjTZtL8vCDFSs617).
+
 # [](#header-1)Published Papers:
 *	LUNA: Quasi-Optimally Succinct Designated-Verifier Zero-Knowledge Arguments from Lattices. (2024). Ron Steinfeld, Amin Sakzad, Muhammed F. Esgin, Veronika Kuchta, Mert Yassi, & ***Raymond K. Zhao***. To appear in ACM CCS 2024. [Preprint](https://eprint.iacr.org/2022/1690). 
 *	High Throughput Lattice-based Signatures on GPUs: Comparing Falcon and Mitaka. (2024). Wai-Kong Lee, ***Raymond K. Zhao***, Ron Steinfeld, Amin Sakzad, & Seong Oun Hwang. IEEE Transactions on Parallel and Distributed Systems. DOI [10.1109/TPDS.2024.3367319](https://doi.org/10.1109/TPDS.2024.3367319). 
