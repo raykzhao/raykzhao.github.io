@@ -12,6 +12,7 @@ You can retrieve my full CV [here](CV.pdf).
 *	(**Australian permanent residents and citizens only**) We have two new [Industry PhD scholarships](https://github.com/raykzhao/raykzhao.github.io/blob/master/iphd_ad.pdf) between CSIRO, Monash University, and Penten. Candidates please register an expression of interest [here](https://forms.gle/XJjTZtL8vCDFSs617).
 
 # [](#header-1)Published Papers:
+*	MIKA: A Minimalist Approach to Hybrid Key Exchange. (2024). ***Raymond K. Zhao***, Nazatul H. Sultan, Phillip Yialeloglou, Dongxi Liu, David Liebowitz, & Josef Pieprzyk. To appear in PST 2024.
 *	LUNA: Quasi-Optimally Succinct Designated-Verifier Zero-Knowledge Arguments from Lattices. (2024). Ron Steinfeld, Amin Sakzad, Muhammed F. Esgin, Veronika Kuchta, Mert Yassi, & ***Raymond K. Zhao***. To appear in ACM CCS 2024. [Preprint](https://eprint.iacr.org/2022/1690). 
 *	High Throughput Lattice-based Signatures on GPUs: Comparing Falcon and Mitaka. (2024). Wai-Kong Lee, ***Raymond K. Zhao***, Ron Steinfeld, Amin Sakzad, & Seong Oun Hwang. IEEE Transactions on Parallel and Distributed Systems. DOI [10.1109/TPDS.2024.3367319](https://doi.org/10.1109/TPDS.2024.3367319). 
 *	Quantum-safe HIBE: does it cost a Latte?. (2024).  ***Raymond K. Zhao***, Sarah McCarthy, Ron Steinfeld, Amin Sakzad, & Máire O’Neill. IEEE Transactions on Information Forensics and Security. DOI [10.1109/TIFS.2023.3347880](https://doi.org/10.1109/TIFS.2023.3347880). [Full version](https://ia.cr/2021/222). 
