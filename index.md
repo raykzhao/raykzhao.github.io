@@ -33,6 +33,7 @@ You can retrieve my full CV [here](CV.pdf).
 *	[Titanium](http://users.monash.edu.au/~rste/Titanium.html): Post-Quantum Public-key Encryption and KEM Algorithms. (2017). Ron Steinfeld, Amin Sakzad, & ***Raymond K. Zhao***. Submitted to the [NIST Post-Quantum Competition](https://csrc.nist.gov/CSRC/media/Projects/Post-Quantum-Cryptography/documents/round-1/submissions/Titanium.zip).
 
 # [](#header-1)Talks:
+*	High Throughput Lattice-based Signatures on GPUs: Comparing Falcon and Mitaka. (2024). [Talk](https://raykzhao.github.io/falcon_gpu.pdf) in the [Brainlink X-Lab Day 2024](https://www.ai-security.org/sub2_1.html?idx=11).
 *	Quantum-Safe HIBE: Does It Cost a Latte?. (2024). [Seminar](https://raykzhao.github.io/Latte_PPT.pdf) in the Macquarie University Cyber Security Hub. 
 *	Securing Communications in the Post-Quantum Era. (2023). ***Raymond K. Zhao***, & Sara Jafarbeiki. [Tutorial](https://raykzhao.github.io/AsiaCCS2023Tutorial.pdf) at AsiaCCS 2023.  
 
