@@ -45,7 +45,7 @@ You can retrieve my full CV [here](CV.pdf).
 *	Mert Yassı (Jul 2023 -- present, co-supervision with Ron Steinfeld, Amin Sakzad, and Muhammed Esgin)
 
 # [](#header-1)Scientific Citizenship:
-*	**Program Comittee:** [Asiacrypt 2023](https://asiacrypt.iacr.org/2023/callforpapers.php), [ACM CCS 2024 Artifact Evaluation](https://www.sigsac.org/ccs/CCS2024/organization/ae-committee.html)
+*	**Program Comittee:** [Asiacrypt 2023](https://asiacrypt.iacr.org/2023/callforpapers.php), [ACM CCS 2024 Artifact Evaluation](https://www.sigsac.org/ccs/CCS2024/organization/ae-committee.html), [ICISC 2024](http://www.icisc.org/static/organization)
 *	**Journal Reviews:** [ORCID](https://orcid.org/0000-0003-1257-9147)
 
 # [](#header-1)Media Articles:
