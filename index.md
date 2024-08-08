@@ -27,6 +27,7 @@ You can retrieve my full CV [here](CV.pdf).
 *	Practical MP-LWE-based encryption balancing security-risk versus efficiency. (2019). Ron Steinfeld, Amin Sakzad, & ***Raymond K. Zhao***. Designs, Codes and Cryptography. DOI [10.1007/s10623-019-00654-5](https://doi.org/10.1007/s10623-019-00654-5). 
 
 # [](#header-1)Other Works:
+*	Quantum Key Distribution. (2024). Jiafan Wang, ***Raymond Zhao***, & Dongxi Liu. Australian patent [2024901225](https://ipsearch.ipaustralia.gov.au/patents/2024901225). 
 *	eMLE-Sig 2.0: A Signature Scheme based on Embedded Multilayer Equations with Heavy Layer Randomization. (2023). Dongxi Liu & ***Raymond K. Zhao***. Submitted to the [NIST PQC Round 1 Additional Signatures](https://csrc.nist.gov/csrc/media/Projects/pqc-dig-sig/documents/round-1/submission-pkg/eMLE2.0-submission.zip). [Latest](https://gitlab.com/raykzhao/emle-sig).
 *	Scalable and Efficient Hybrid QKD with Post-quantum Authentications. (2023). ***Raymond K. Zhao***, Dongxi Liu, & Josef Pieprzyk. [Poster](https://raykzhao.github.io/qca2023_poster.pdf) at Quantum Australia 2023.
 *	Implementation of Post-Quantum Algorithms for Bouncy Castle Library. [Project](https://research.monash.edu/en/projects/implementation-of-post-quantum-algorithms-for-bouncy-castle-libra). [Contributors](https://www.bouncycastle.org/contributors.html) of the Bouncy Castle.
