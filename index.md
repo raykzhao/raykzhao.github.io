@@ -50,6 +50,7 @@ You can retrieve my full CV [here](CV.pdf).
 *	**Journal Reviews:** [ORCID](https://orcid.org/0000-0003-1257-9147)
 
 # [](#header-1)Media Articles:
+*	[Unleashing LATTE: A Quantum-Safe Cybersecurity Hero for Tomorrow's Threats](https://www.linkedin.com/pulse/unleashing-latte-quantum-safe-cybersecurity-f6lnc/). August 14 2024.
 *	[New research to make digital transactions quantum safe and twenty times faster](https://www.monash.edu/news/articles/new-research-to-make-digital-transactions-quantum-safe-and-twenty-times-faster). 16 May 2024. 
 *	[The new frontier in online security: quantum-safe cryptography](https://www.monash.edu/news/articles/the-new-frontier-in-online-security-quantum-safe-cryptography). 14 November 2023. 
 *	[Better than best: Most efficient quantum-safe and privacy-preserving blockchain protocol gets an upgrade](https://www.monash.edu/it/news/2021/better-than-best-most-efficient-quantum-safe-and-privacy-preserving-blockchain-protocol-gets-an-upgrade). 15 September 2021. 
