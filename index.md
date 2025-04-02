@@ -9,7 +9,7 @@ My research focuses on the efficient and secure implementation techniques for po
 You can retrieve my full CV [here](CV.pdf).
 
 # [](#header-1)News:
-*	(**Australian permanent residents and citizens only**) We have two new [Industry PhD scholarships](https://github.com/raykzhao/raykzhao.github.io/blob/master/iphd_ad.pdf) between CSIRO, Monash University, and Penten. Candidates please register an expression of interest [here](https://forms.gle/XJjTZtL8vCDFSs617).
+*	(**Australian permanent residents and citizens only**) We have two new Industry PhD scholarships ([1](https://careers.pageuppeople.com/513/cw/en/job/678541/scholarship-in-csiro-industry-phd-program-project-1-resilient-practical-quantumsafe-threshold-cryptography), [2](https://careers.pageuppeople.com/513/cw/en/job/678538/scholarship-in-csiro-industry-phd-program-project-2-techniques-and-frameworks-for-enabling-postquantum-cryptography-pqc-migration)) between CSIRO, Monash University, and Penten. 
 
 # [](#header-1)Published Papers:
 *	Enabling Quantum-Resistant EDHOC: Design and Performance Evaluation. (2025). Lidia Pocero Fraile, Georgios Tasopoulos, Christos Koulamas, ***Raymond K. Zhao***,  Nazatul H. Sultan, Francesco Regazzoni, & Apostolos P. Fournaris. IEEE Access. DOI [10.1109/ACCESS.2025.3554010](https://doi.org/10.1109/ACCESS.2025.3554010).
