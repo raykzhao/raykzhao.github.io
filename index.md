@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Hi. I will join ExeQuantum in July 2025 as a Chief Technology Officer. Prior to that, I was a Postdoctoral Fellow at CSIRO's Data61. 
+Hi. I will join [ExeQuantum](https://www.exequantum.com/) in July 2025 as a Chief Technology Officer. Prior to that, I was a Postdoctoral Fellow at CSIRO's Data61. 
 
 My research focuses on the efficient and secure implementation techniques for post-quantum cryptographic applications and protocols, particularly the lattice-based cryptosystems. 
 
