@@ -2,14 +2,11 @@
 layout: default
 ---
 
-Hi. I am a Postdoctoral Fellow at CSIRO's Data61. 
+Hi. I will join ExeQuantum in July 2025 as a Chief Technology Officer. Prior to that, I was a Postdoctoral Fellow at CSIRO's Data61. 
 
 My research focuses on the efficient and secure implementation techniques for post-quantum cryptographic applications and protocols, particularly the lattice-based cryptosystems. 
 
 You can retrieve my full CV [here](CV.pdf).
-
-# [](#header-1)News:
-*	(**Australian permanent residents and citizens only**) We have two new Industry PhD scholarships ([1](https://careers.pageuppeople.com/513/cw/en/job/678541/scholarship-in-csiro-industry-phd-program-project-1-resilient-practical-quantumsafe-threshold-cryptography), [2](https://careers.pageuppeople.com/513/cw/en/job/678538/scholarship-in-csiro-industry-phd-program-project-2-techniques-and-frameworks-for-enabling-postquantum-cryptography-pqc-migration)) between CSIRO, Monash University, and Penten. 
 
 # [](#header-1)Published Papers:
 *	Nosy Layers, Noisy Fixes: Tackling DRAs in Federated Learning Systems using Explainable AI. (2025). Meghali Nandi, Arash Shaghaghi, Nazatul Haque Sultan, Gustavo Batista, ***Raymond K. Zhao***, & Sanjay Jha. To appear in AsiaCCS 2025.
@@ -43,6 +40,7 @@ You can retrieve my full CV [here](CV.pdf).
 # [](#header-1)Awards:
 *	SCS Biannual Award May 2023 (Engineering and Technology Award)
 *	SCS Biannual Award May 2024 (Early Career in Engineering Award)
+*	iAwards 25 ACT Finalist
 
 # [](#header-1)PhD Supervisions:
 *	Mert Yassı (Jul 2023 -- present, co-supervision with Ron Steinfeld, Amin Sakzad, and Muhammed Esgin)
