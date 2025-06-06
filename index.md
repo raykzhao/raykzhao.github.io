@@ -46,6 +46,7 @@ You can retrieve my full CV [here](CV.pdf).
 
 # [](#header-1)PhD Supervisions:
 *	Mert Yassı (Jul 2023 -- present, co-supervision with Ron Steinfeld, Amin Sakzad, and Muhammed Esgin)
+*	Meghali Nandi (Sep 2024 -- present, co-supervision with Arash Shaghaghi, Nazatul Sultan, and Sanjay Jha)
 
 # [](#header-1)Scientific Citizenship:
 *	**Program Comittee:** [Asiacrypt 2023](https://asiacrypt.iacr.org/2023/callforpapers.php), [ACM CCS 2024 Artifact Evaluation](https://www.sigsac.org/ccs/CCS2024/organization/ae-committee.html), [ICISC 2024](http://www.icisc.org/static/organization), [TCCS 2024](http://ieee-aiplus.org/2024/trustcom/w3.pdf)
