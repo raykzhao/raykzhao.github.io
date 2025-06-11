@@ -53,6 +53,7 @@ You can retrieve my full CV [here](CV.pdf).
 # [](#header-1)Media Articles:
 *	[Unleashing LATTE: A Quantum-Safe Cybersecurity Hero for Tomorrow's Threats](https://www.linkedin.com/pulse/unleashing-latte-quantum-safe-cybersecurity-f6lnc/). August 14 2024.
 *	[New research to make digital transactions quantum safe and twenty times faster](https://www.monash.edu/news/articles/new-research-to-make-digital-transactions-quantum-safe-and-twenty-times-faster). 16 May 2024. 
+*	['Deteriorating' cybersecurity leaves Australia vulnerable as threat of quantum computers looms](https://www.dailytelegraph.com.au/news/nsw/deteriorating-cybersecurity-leaves-australia-vulnerable-as-threat-of-quantum-computers-looms/news-story/400d3aed5fe7f75ffa31a4c497421c9b). 9 January 2024.
 *	[The new frontier in online security: quantum-safe cryptography](https://www.monash.edu/news/articles/the-new-frontier-in-online-security-quantum-safe-cryptography). 14 November 2023. 
 *	[Better than best: Most efficient quantum-safe and privacy-preserving blockchain protocol gets an upgrade](https://www.monash.edu/it/news/2021/better-than-best-most-efficient-quantum-safe-and-privacy-preserving-blockchain-protocol-gets-an-upgrade). 15 September 2021. 
 *	[New form of blockchain protocol coined most efficient in the world](https://www.csiro.au/en/news/All/Articles/2020/October/new-form-of-blockchain-protocol-coined-most-efficient-in-the-world). 1 October 2020. 
