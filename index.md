@@ -40,7 +40,7 @@ You can retrieve my full CV [here](CV.pdf).
 # [](#header-1)Awards:
 *	SCS Biannual Award May 2023 (Engineering and Technology Award)
 *	SCS Biannual Award May 2024 (Early Career in Engineering Award)
-*	iAwards 25 ACT Finalist
+*	iAwards 25 ACT Winner (Government & Public Sector)
 
 # [](#header-1)PhD Supervisions:
 *	Mert Yassı (Jul 2023 -- present, co-supervision with Ron Steinfeld, Amin Sakzad, and Muhammed Esgin)
