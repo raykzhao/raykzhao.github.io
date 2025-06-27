@@ -9,9 +9,10 @@ My research focuses on the efficient and secure implementation techniques for po
 You can retrieve my full CV [here](CV.pdf).
 
 # [](#header-1)Awards:
-*	iAwards 25 ACT Winner (Government & Public Sector)
-*	SCS Biannual Award May 2024 (Early Career in Engineering Award)
-*	SCS Biannual Award May 2023 (Engineering and Technology Award)
+*	iAwards 25 ACT Winner (Government & Public Sector), Australian Information Industry Association
+*	SCS Biannual Award May 2024 (Early Career in Engineering Award), CSIRO
+*	SCS Biannual Award May 2023 (Engineering and Technology Award), CSIRO
+*	[Dux of Postgraduate (Master of Networks and Security)](https://www.monash.edu/it/news/2018/outstanding-fit-students-recognised), Cliff Bellamy Awards 2018, Monash University
 
 # [](#header-1)Invited Talks:
 *	High Throughput Lattice-based Signatures on GPUs: Comparing Falcon and Mitaka. (2024). [Talk](https://raykzhao.github.io/falcon_gpu.pdf) in the [Brainlink X-Lab Day 2024](https://www.ai-security.org/sub2_1.html?idx=11).
