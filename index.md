@@ -8,6 +8,25 @@ My research focuses on the efficient and secure implementation techniques for po
 
 You can retrieve my full CV [here](CV.pdf).
 
+# [](#header-1)Awards:
+*	iAwards 25 ACT Winner (Government & Public Sector)
+*	SCS Biannual Award May 2024 (Early Career in Engineering Award)
+*	SCS Biannual Award May 2023 (Engineering and Technology Award)
+
+# [](#header-1)Invited Talks:
+*	High Throughput Lattice-based Signatures on GPUs: Comparing Falcon and Mitaka. (2024). [Talk](https://raykzhao.github.io/falcon_gpu.pdf) in the [Brainlink X-Lab Day 2024](https://www.ai-security.org/sub2_1.html?idx=11).
+*	Quantum-Safe HIBE: Does It Cost a Latte?. (2024). [Seminar](https://raykzhao.github.io/Latte_PPT.pdf) in the Macquarie University Cyber Security Hub. 
+*	Securing Communications in the Post-Quantum Era. (2023). ***Raymond K. Zhao***, & Sara Jafarbeiki. [Tutorial](https://raykzhao.github.io/AsiaCCS2023Tutorial.pdf) at AsiaCCS 2023.  
+
+# [](#header-1)Media Articles:
+*	[Unleashing LATTE: A Quantum-Safe Cybersecurity Hero for Tomorrow's Threats](https://www.linkedin.com/pulse/unleashing-latte-quantum-safe-cybersecurity-f6lnc/). August 14 2024.
+*	[New research to make digital transactions quantum safe and twenty times faster](https://www.monash.edu/news/articles/new-research-to-make-digital-transactions-quantum-safe-and-twenty-times-faster). 16 May 2024. 
+*	['Deteriorating' cybersecurity leaves Australia vulnerable as threat of quantum computers looms](https://www.dailytelegraph.com.au/news/nsw/deteriorating-cybersecurity-leaves-australia-vulnerable-as-threat-of-quantum-computers-looms/news-story/400d3aed5fe7f75ffa31a4c497421c9b). 9 January 2024.
+*	[The new frontier in online security: quantum-safe cryptography](https://www.monash.edu/news/articles/the-new-frontier-in-online-security-quantum-safe-cryptography). 14 November 2023. 
+*	[Better than best: Most efficient quantum-safe and privacy-preserving blockchain protocol gets an upgrade](https://www.monash.edu/it/news/2021/better-than-best-most-efficient-quantum-safe-and-privacy-preserving-blockchain-protocol-gets-an-upgrade). 15 September 2021. 
+*	[New form of blockchain protocol coined most efficient in the world](https://www.csiro.au/en/news/All/Articles/2020/October/new-form-of-blockchain-protocol-coined-most-efficient-in-the-world). 1 October 2020. 
+*	[Researchers develop worlds most efficient quantum-safe and privacy-preserving blockchain protocol](https://www.csiro.au/en/news/all/news/2020/september/researchers-develop-worlds-most-efficient-quantum-safe-and-privacy-preserving-blockchain-protocol). 30 September 2020. 
+
 # [](#header-1)Published Papers:
 *	Nosy Layers, Noisy Fixes: Tackling DRAs in Federated Learning Systems using Explainable AI. (2025). Meghali Nandi, Arash Shaghaghi, Nazatul Haque Sultan, Gustavo Batista, ***Raymond K. Zhao***, & Sanjay Jha. To appear in AsiaCCS 2025.
 *	Enabling Quantum-Resistant EDHOC: Design and Performance Evaluation. (2025). Lidia Pocero Fraile, Georgios Tasopoulos, Christos Koulamas, ***Raymond K. Zhao***,  Nazatul H. Sultan, Francesco Regazzoni, & Apostolos P. Fournaris. IEEE Access. DOI [10.1109/ACCESS.2025.3554010](https://doi.org/10.1109/ACCESS.2025.3554010).
@@ -31,33 +50,6 @@ You can retrieve my full CV [here](CV.pdf).
 *	Scalable and Efficient Hybrid QKD with Post-quantum Authentications. (2023). ***Raymond K. Zhao***, Dongxi Liu, & Josef Pieprzyk. [Poster](https://raykzhao.github.io/qca2023_poster.pdf) at Quantum Australia 2023.
 *	Implementation of Post-Quantum Algorithms for Bouncy Castle Library. [Project](https://research.monash.edu/en/projects/implementation-of-post-quantum-algorithms-for-bouncy-castle-libra). [Contributors](https://www.bouncycastle.org/contributors.html) of the Bouncy Castle.
 *	[Titanium](http://users.monash.edu.au/~rste/Titanium.html): Post-Quantum Public-key Encryption and KEM Algorithms. (2017). Ron Steinfeld, Amin Sakzad, & ***Raymond K. Zhao***. Submitted to the [NIST Post-Quantum Competition](https://csrc.nist.gov/CSRC/media/Projects/Post-Quantum-Cryptography/documents/round-1/submissions/Titanium.zip).
-
-# [](#header-1)Talks:
-*	High Throughput Lattice-based Signatures on GPUs: Comparing Falcon and Mitaka. (2024). [Talk](https://raykzhao.github.io/falcon_gpu.pdf) in the [Brainlink X-Lab Day 2024](https://www.ai-security.org/sub2_1.html?idx=11).
-*	Quantum-Safe HIBE: Does It Cost a Latte?. (2024). [Seminar](https://raykzhao.github.io/Latte_PPT.pdf) in the Macquarie University Cyber Security Hub. 
-*	Securing Communications in the Post-Quantum Era. (2023). ***Raymond K. Zhao***, & Sara Jafarbeiki. [Tutorial](https://raykzhao.github.io/AsiaCCS2023Tutorial.pdf) at AsiaCCS 2023.  
-
-# [](#header-1)Awards:
-*	SCS Biannual Award May 2023 (Engineering and Technology Award)
-*	SCS Biannual Award May 2024 (Early Career in Engineering Award)
-*	iAwards 25 ACT Winner (Government & Public Sector)
-
-# [](#header-1)PhD Supervisions:
-*	Mert Yassı (Jul 2023 -- present, co-supervision with Ron Steinfeld, Amin Sakzad, and Muhammed Esgin)
-*	Meghali Nandi (Sep 2024 -- present, co-supervision with Arash Shaghaghi, Nazatul Sultan, and Sanjay Jha)
-
-# [](#header-1)Scientific Citizenship:
-*	**Program Comittee:** [Asiacrypt 2023](https://asiacrypt.iacr.org/2023/callforpapers.php), [ACM CCS 2024 Artifact Evaluation](https://www.sigsac.org/ccs/CCS2024/organization/ae-committee.html), [ICISC 2024](http://www.icisc.org/static/organization), [TCCS 2024](http://ieee-aiplus.org/2024/trustcom/w3.pdf)
-*	**Journal Reviews:** [ORCID](https://orcid.org/0000-0003-1257-9147)
-
-# [](#header-1)Media Articles:
-*	[Unleashing LATTE: A Quantum-Safe Cybersecurity Hero for Tomorrow's Threats](https://www.linkedin.com/pulse/unleashing-latte-quantum-safe-cybersecurity-f6lnc/). August 14 2024.
-*	[New research to make digital transactions quantum safe and twenty times faster](https://www.monash.edu/news/articles/new-research-to-make-digital-transactions-quantum-safe-and-twenty-times-faster). 16 May 2024. 
-*	['Deteriorating' cybersecurity leaves Australia vulnerable as threat of quantum computers looms](https://www.dailytelegraph.com.au/news/nsw/deteriorating-cybersecurity-leaves-australia-vulnerable-as-threat-of-quantum-computers-looms/news-story/400d3aed5fe7f75ffa31a4c497421c9b). 9 January 2024.
-*	[The new frontier in online security: quantum-safe cryptography](https://www.monash.edu/news/articles/the-new-frontier-in-online-security-quantum-safe-cryptography). 14 November 2023. 
-*	[Better than best: Most efficient quantum-safe and privacy-preserving blockchain protocol gets an upgrade](https://www.monash.edu/it/news/2021/better-than-best-most-efficient-quantum-safe-and-privacy-preserving-blockchain-protocol-gets-an-upgrade). 15 September 2021. 
-*	[New form of blockchain protocol coined most efficient in the world](https://www.csiro.au/en/news/All/Articles/2020/October/new-form-of-blockchain-protocol-coined-most-efficient-in-the-world). 1 October 2020. 
-*	[Researchers develop worlds most efficient quantum-safe and privacy-preserving blockchain protocol](https://www.csiro.au/en/news/all/news/2020/september/researchers-develop-worlds-most-efficient-quantum-safe-and-privacy-preserving-blockchain-protocol). 30 September 2020. 
 
 # [](#header-1)My PhD Thesis:
 *	[Efficient Implementation Techniques for Lattice-based Cryptosystems](https://bridges.monash.edu/articles/thesis/Efficient_Implementation_Techniques_for_Lattice-based_Cryptosystems/19224867). Monash University. Supervised by Associate Professor Ron Steinfeld & Dr Amin Sakzad. Certified on Feburary 2022. 
