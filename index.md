@@ -28,6 +28,12 @@ You can retrieve my full CV [here](CV.pdf).
 *	[New form of blockchain protocol coined most efficient in the world](https://www.csiro.au/en/news/All/Articles/2020/October/new-form-of-blockchain-protocol-coined-most-efficient-in-the-world). 1 October 2020. 
 *	[Researchers develop worlds most efficient quantum-safe and privacy-preserving blockchain protocol](https://www.csiro.au/en/news/all/news/2020/september/researchers-develop-worlds-most-efficient-quantum-safe-and-privacy-preserving-blockchain-protocol). 30 September 2020. 
 
+# [](#header-1)Conference Program Comittee:
+*	[TCCS 2024](http://ieee-aiplus.org/2024/trustcom/w3.pdf)
+*	[ICISC 2024](http://www.icisc.org/static/organization)
+*	[ACM CCS 2024 Artifact Evaluation](https://www.sigsac.org/ccs/CCS2024/organization/ae-committee.html)
+*	[Asiacrypt 2023](https://asiacrypt.iacr.org/2023/callforpapers.php)
+
 # [](#header-1)Published Papers:
 *	Nosy Layers, Noisy Fixes: Tackling DRAs in Federated Learning Systems using Explainable AI. (2025). Meghali Nandi, Arash Shaghaghi, Nazatul Haque Sultan, Gustavo Batista, ***Raymond K. Zhao***, & Sanjay Jha. To appear in AsiaCCS 2025.
 *	Enabling Quantum-Resistant EDHOC: Design and Performance Evaluation. (2025). Lidia Pocero Fraile, Georgios Tasopoulos, Christos Koulamas, ***Raymond K. Zhao***,  Nazatul H. Sultan, Francesco Regazzoni, & Apostolos P. Fournaris. IEEE Access. DOI [10.1109/ACCESS.2025.3554010](https://doi.org/10.1109/ACCESS.2025.3554010).
