@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Hi. I am the Chief Technology Officer of [ExeQuantum](https://www.exequantum.com/). Prior to that, I was a Postdoctoral Fellow at [CSIRO's Data61](https://research.csiro.au/cybersecurity-quantum-systems/). 
+Hi. I am the Chief Technology Officer of [ExeQuantum](https://www.exequantum.com/). Prior to that, I was a Postdoctoral Fellow at [CSIRO's Data61](https://research.csiro.au/cybersecurity-quantum-systems/our-alumni/). 
 
 My work focuses on efficient and secure implementations for Post-Quantum Cryptography (PQC) applications and protocols. 
 
