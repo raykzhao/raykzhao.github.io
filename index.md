@@ -4,7 +4,7 @@ layout: default
 
 Hi. I am the Chief Technology Officer of [ExeQuantum](https://www.exequantum.com/). Prior to that, I was a Postdoctoral Fellow at [CSIRO's Data61](https://research.csiro.au/cybersecurity-quantum-systems/). 
 
-My research focuses on the efficient and secure implementation techniques for post-quantum cryptographic applications and protocols, particularly the lattice-based cryptosystems. 
+My work focuses on efficient and secure implementations for Post-Quantum Cryptography (PQC) applications and protocols. 
 
 You can retrieve my full CV [here](CV.pdf).
 
@@ -15,7 +15,7 @@ You can retrieve my full CV [here](CV.pdf).
 *	[Dux of Postgraduate (Master of Networks and Security)](https://www.monash.edu/it/news/2018/outstanding-fit-students-recognised), Cliff Bellamy Awards 2018, Monash University
 
 # [](#header-1)Invited Talks:
-*	High Throughput Lattice-based Signatures on GPUs: Comparing Falcon and Mitaka. (2024). [Talk](https://raykzhao.github.io/falcon_gpu.pdf) in the [Brainlink X-Lab Day 2024](https://www.ai-security.org/sub2_1.html?idx=11).
+*	High Throughput Lattice-based Signatures on GPUs: Comparing Falcon and Mitaka. (2024). [Talk](https://raykzhao.github.io/falcon_gpu.pdf) in the Brainlink X-Lab Day 2024 workshop [Security, Privacy, and Trust in AI](https://www.ai-security.org/sub2_1.html?idx=11).
 *	Quantum-Safe HIBE: Does It Cost a Latte?. (2024). [Seminar](https://raykzhao.github.io/Latte_PPT.pdf) in the Macquarie University Cyber Security Hub. 
 *	Securing Communications in the Post-Quantum Era. (2023). ***Raymond K. Zhao***, & Sara Jafarbeiki. [Tutorial](https://raykzhao.github.io/AsiaCCS2023Tutorial.pdf) at AsiaCCS 2023.  
 
@@ -35,7 +35,7 @@ You can retrieve my full CV [here](CV.pdf).
 *	[Asiacrypt 2023](https://asiacrypt.iacr.org/2023/callforpapers.php)
 
 # [](#header-1)Published Papers:
-*	Nosy Layers, Noisy Fixes: Tackling DRAs in Federated Learning Systems using Explainable AI. (2025). Meghali Nandi, Arash Shaghaghi, Nazatul Haque Sultan, Gustavo Batista, ***Raymond K. Zhao***, & Sanjay Jha. To appear in AsiaCCS 2025.
+*	Nosy Layers, Noisy Fixes: Tackling DRAs in Federated Learning Systems using Explainable AI. (2025). Meghali Nandi, Arash Shaghaghi, Nazatul H. Sultan, Gustavo Batista, ***Raymond K. Zhao***, & Sanjay Jha. To appear in AsiaCCS 2025.
 *	Enabling Quantum-Resistant EDHOC: Design and Performance Evaluation. (2025). Lidia Pocero Fraile, Georgios Tasopoulos, Christos Koulamas, ***Raymond K. Zhao***,  Nazatul H. Sultan, Francesco Regazzoni, & Apostolos P. Fournaris. IEEE Access. DOI [10.1109/ACCESS.2025.3554010](https://doi.org/10.1109/ACCESS.2025.3554010).
 *	MIKA: A Minimalist Approach to Hybrid Key Exchange. (2024). ***Raymond K. Zhao***, Nazatul H. Sultan, Phillip Yialeloglou, Dongxi Liu, David Liebowitz, & Josef Pieprzyk. Proceedings of PST 2024. DOI [10.1109/PST62714.2024.10788054](https://doi.org/10.1109/PST62714.2024.10788054). 
 *	LUNA: Quasi-Optimally Succinct Designated-Verifier Zero-Knowledge Arguments from Lattices. (2024). Ron Steinfeld, Amin Sakzad, Muhammed F. Esgin, Veronika Kuchta, Mert Yassi, & ***Raymond K. Zhao***. Proceedings of ACM CCS 2024. DOI [10.1145/3658644.3670345](https://doi.org/10.1145/3658644.3670345). 
