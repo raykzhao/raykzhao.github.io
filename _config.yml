@@ -6,3 +6,7 @@ plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 github:
   repository_url: https://gitlab.com/raykzhao
+plugins:
+  - jekyll-redirect-from
+whitelist:
+  - jekyll-redirect-from
