@@ -3,16 +3,16 @@
 
 @import "{{ site.theme }}";
 
-@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@200..900&display=swap');
+@import url("https://cdn.jsdelivr.net/npm/hack-font@3/build/web/hack-subset.css");
 
 body {
-  font-family: "Inconsolata", Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
+  font-family: Hack, Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
 }
 
 header h1 {
-  font-family: "Inconsolata", Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
+  font-family: Hack, Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: "Inconsolata", Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
+  font-family: Hack, Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
 }
